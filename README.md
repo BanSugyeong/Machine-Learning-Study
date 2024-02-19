@@ -10,4 +10,13 @@
 - Gradient descent Algorithm
 
 #### 2 Week-Contents
-- 
+- Feedback
+  - Loss function
+  - MSE
+  - RMSE
+- Multiple Linear Regression
+- Vectorization
+- Gradient descent for MLR
+- Classification
+- Logistic Regression
+- Regularization
