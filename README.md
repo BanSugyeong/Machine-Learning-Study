@@ -21,6 +21,8 @@
 - Logistic Regression
 - Regularization
 
+### 2. Advanced Learning Algorithms
+
 #### 3 Week-Contents
 - Feedback
   - implementation of MSE
@@ -34,4 +36,3 @@
   - single-layer perceptron
   - multi-layer perceptron
 - Tensorflow
-- 
