@@ -36,3 +36,8 @@
   - single-layer perceptron
   - multi-layer perceptron
 - Tensorflow
+
+#### 4 Week-Contents
+- Feedback
+- Activation Functions
+- 
