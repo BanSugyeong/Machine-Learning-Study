@@ -41,3 +41,7 @@
 - Feedback
 - Activation Functions
 - 
+
+#### 5 Week-Contents
+- Feedback
+- 
