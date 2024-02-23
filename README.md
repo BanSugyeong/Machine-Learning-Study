@@ -38,9 +38,14 @@
 - Tensorflow
 
 #### 4 Week-Contents
-- Feedback
 - Activation Functions
-- 
+  - Sigmoid function
+  - ReLU function
+  - ELU function
+  - softmax function
+- Multiclass Classification
+  - Loss function of Multiclass Classification
+- Back Propagation
 
 #### 5 Week-Contents
 - Feedback
