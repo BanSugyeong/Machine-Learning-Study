@@ -49,4 +49,8 @@
 
 #### 5 Week-Contents
 - Feedback
-- 
+- Evaluating a model
+- Bias and Variance
+- Precision and Recall
+- Decision tree
+- Random forest
