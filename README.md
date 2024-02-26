@@ -49,8 +49,15 @@
 
 #### 5 Week-Contents
 - Feedback
+  - Activation Functions
+    - Binary step function
+    - Linear activation function
+    - Non-linear activation function
 - Evaluating a model
 - Bias and Variance
 - Precision and Recall
+  - Trading off percision and recall
 - Decision tree
+  - Pruning and Ensemble Methods
+  - Impurity
 - Random forest
