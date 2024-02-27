@@ -61,3 +61,7 @@
   - Pruning and Ensemble Methods
   - Impurity
 - Random forest
+
+#### 6 Week-Contents
+- Feedback
+- 
