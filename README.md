@@ -65,6 +65,7 @@
 #### 6 Week-Contents
 - Feedback
 - Unsupervised Learning
+  - Clustering
 - K-means algorithm
 - Gaussian distribution
 - Anomaly detective algorithm
