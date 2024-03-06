@@ -67,7 +67,13 @@
 - Unsupervised Learning
   - Clustering
 - K-means algorithm
+  - algorithm process
+  - Hierarchical Clustering
+  - Elbow-method
 - Gaussian distribution
 - Anomaly detective algorithm
+  - One-Class SVM
+  - Isolation Forest
+  - Autoencoder
 
   
