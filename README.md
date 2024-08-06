@@ -75,4 +75,5 @@
   - One-Class SVM
   - Isolation Forest
   - Autoencoder
-  
+ 
+#### 7 Week-Contents
